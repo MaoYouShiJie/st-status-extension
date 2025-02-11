@@ -1,8 +1,8 @@
 {
   "name": "状态监控增强版",
-  "author": "你的名字",
+  "author": "MaoYouShiJie",
   "version": "1.2.0",
   "description": "与角色卡联动的动态状态监控系统",
-  "repo": "https://github.com/你的用户名/st-status-extension",
+  "repo": "https://github.com/MaoYouShiJie/st-status-extension",
   "main": "src/plugin.js"
 }
