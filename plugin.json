@@ -1,8 +1,12 @@
 {
   "name": "状态监控增强版",
-  "author": "MaoYouShiJie",
-  "version": "1.2.0",
+  "id": "statusMonitorPlus",
+  "author": "你的名字",
+  "version": "1.2.1",
   "description": "与角色卡联动的动态状态监控系统",
   "repo": "https://github.com/MaoYouShiJie/st-status-extension",
-  "main": "src/plugin.js"
+  "entry": "src/plugin.js",
+  "dependencies": {
+    "st-core": ">=1.8.2"
+  }
 }
