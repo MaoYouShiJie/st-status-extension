@@ -17,7 +17,7 @@ class StatusExtension {
   injectStyles() {
     const link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = 'plugins/st-status-extension/src/styles.css';
+    link.href = chrome.runtime.getURL('src/styles.css');
     document.head.appendChild(link);
   }
 
