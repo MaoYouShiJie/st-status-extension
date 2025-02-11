@@ -1,0 +1,12 @@
+{
+  "currentCharacter": "当前角色：",
+  "addStatus": "➕ 添加状态",
+  "settings": "⚙️ 设置",
+  "import": "📥 导入配置",
+  "export": "📤 导出配置",
+  "statusName": "状态名称",
+  "currentValue": "当前值",
+  "maxValue": "最大值",
+  "colorPicker": "选择颜色",
+  "deleteWarning": "确定要删除这个状态吗？"
+}
